@@ -2,6 +2,11 @@
 
 This repository contains a simple Streamlit application that visualizes time series data with interactive controls. This guide explains how to deploy this app for free using multiple cloud services, with step-by-step instructions for each method.
 
+
+## Live Demo
+https://st-learn.streamlit.app/
+
+
 ## Application Overview
 
 The application generates synthetic time series data with configurable trend, seasonality, and noise components. Users can:
